@@ -63,7 +63,7 @@ focus on speed and low resource usage.
 ### Build and run
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/AppDeck.git
+git clone 
 cd AppDeck
 dotnet restore
 dotnet run -c Release
